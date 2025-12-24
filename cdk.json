@@ -1,5 +1,5 @@
 {
-  "app": "dotnet run --project src/AwsServerlessApiWireframe/AwsServerlessApiWireframe.csproj",
+  "app": "dotnet run --project src/LearnAwsServerlessApiWireframe/LearnAwsServerlessApiWireframe.csproj",
   "watch": {
     "include": [
       "**"
