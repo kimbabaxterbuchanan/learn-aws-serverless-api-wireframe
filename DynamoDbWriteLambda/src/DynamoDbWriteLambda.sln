@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamoDbWriteLambda", "DynamoDbWriteLambda\DynamoDbWriteLambda.csproj", "{50BB0FAD-2D9D-436F-8FFB-64F83A50BFF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50BB0FAD-2D9D-436F-8FFB-64F83A50BFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BB0FAD-2D9D-436F-8FFB-64F83A50BFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BB0FAD-2D9D-436F-8FFB-64F83A50BFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BB0FAD-2D9D-436F-8FFB-64F83A50BFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F121883-79B9-474C-9CA3-05A657B96821}
+	EndGlobalSection
+EndGlobal
